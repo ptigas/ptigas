@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Panagiotis (Παναγιώτης, IPA: [panaˈʝotis]) and I’m a DPhil student at [Oxford Applied and Theoretical Machine Learning Group (OATML)](https://oatml.cs.ox.ac.uk/)  studying in the area of Autonomous Intelligent Machines and Systems, under the supervision of Dr. Yarin Gal. I am interested in applied and theoretical cybernetics, autonomous and intelligent natural and artificial systems, generative and algorithmic design. Also, I'm tutoring at Bartlett school of Architecture, UCL, applying principles of cybernetics and living systems to Architecture.
+I'm Panos, a DPhil student at [OATML](https://oatml.cs.ox.ac.uk/) studying cybernetics.
 
-[homepage](https://ptigas.com)
-[scholar](https://scholar.google.com/citations?hl=en&user=E9ITYW0AAAAJ&view_op=list_works&sortby=pubdate)
+[homepage](https://ptigas.com) | [scholar](https://scholar.google.com/citations?hl=en&user=E9ITYW0AAAAJ&view_op=list_works&sortby=pubdate)
 
 <!--
 **ptigas/ptigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
