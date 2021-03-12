@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Panos, a DPhil student at [OATML](https://oatml.cs.ox.ac.uk/) studying cybernetics.
+I'm Panos, a DPhil student at [OATML](https://oatml.cs.ox.ac.uk/), studying bayesian [cybernetics](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine).
 
-[homepage](https://ptigas.com) | [scholar](https://scholar.google.com/citations?hl=en&user=E9ITYW0AAAAJ&view_op=list_works&sortby=pubdate)
+[ptigas.com](https://ptigas.com) | [scholar](https://scholar.google.com/citations?hl=en&user=E9ITYW0AAAAJ&view_op=list_works&sortby=pubdate)
 
 <!--
 **ptigas/ptigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
