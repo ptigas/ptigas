@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Panos, a DPhil student at [OATML](https://oatml.cs.ox.ac.uk/), studying bayesian [cybernetics](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine).
+My name is Panos and I'm an AI/ML researcher. I’m currently working on understanding biology 🧬 and chemistry 🧪 with ML at [isomorphic labs](https://www.isomorphiclabs.com/) 
 
 [ptigas.com](https://ptigas.com) | [scholar](https://scholar.google.com/citations?hl=en&user=E9ITYW0AAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -9,7 +9,7 @@ I'm Panos, a DPhil student at [OATML](https://oatml.cs.ox.ac.uk/), studying baye
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
