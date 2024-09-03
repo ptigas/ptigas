@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Panos and I'm an AI/ML researcher. 
+
 I’m currently working on understanding biology 🧬 and chemistry 🧪 with ML at [isomorphic labs](https://www.isomorphiclabs.com/) 
 
 [ptigas.com](https://ptigas.com) | [scholar](https://scholar.google.com/citations?hl=en&user=E9ITYW0AAAAJ&view_op=list_works&sortby=pubdate)
